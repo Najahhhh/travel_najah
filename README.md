@@ -1,16 +1,52 @@
-# React + Vite
+🌍 Dream Travel Destinations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application showcasing my personal travel bucket list, built using Vite.
+The website highlights places I dream of visiting, why they inspire me, and my long-term travel goals.
 
-Currently, two official plugins are available:
+🚀 Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub Repository: add your GitHub link here
 
-## React Compiler
+Live Website: add your deployment link here (Vercel or Netlify)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧭 Features
 
-## Expanding the ESLint configuration
+A clean and simple travel-themed layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Header with title and inspirational tagline
+
+About section explaining my passion for travel
+
+A list of dream destinations with reasons to visit
+
+Travel goals section
+
+Built using React + Vite for fast performance
+
+💻 Run Locally
+
+Follow the steps below to run the project on your system:
+
+1️⃣ Clone the repository
+git clone <your-repo-link>
+
+2️⃣ Enter the project folder
+cd dream-destinations
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Start the development server
+npm run dev
+
+5️⃣ Open the local URL shown in the terminal
+
+Usually:
+
+http://localhost:5173
+
+📦 Build for Production
+npm run build
+
+
+The optimized production files will be created inside the dist/ folder.
