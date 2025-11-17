@@ -5,9 +5,12 @@ The website highlights places I dream of visiting, why they inspire me, and my l
 
 🚀 Links
 
-GitHub Repository: add your GitHub link here
+GitHub Repository: add your GitHub link here  
+https://github.com/Najahhhh/travel_najah
 
 Live Website: add your deployment link here (Vercel or Netlify)
+Vercel :
+https://travel-najah-git-master-mohammed-najahs-projects.vercel.app/
 
 🧭 Features
 
